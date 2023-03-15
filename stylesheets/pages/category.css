@@ -38,8 +38,6 @@
     width: 94px;
     height: 18px;
 
-    /* Title/Medium/16 */
-
     font-family: 'Noto Sans';
     font-style: normal;
     font-weight: 500;
@@ -174,6 +172,7 @@ article{
     background: #9D7A6D;
 }
 
+
 #CategoryTitle1{
     position: absolute;
     width: 99px;
@@ -245,16 +244,13 @@ article{
     width: 6px;
     height: 10px;
     left: 90px;
-    top: 94px;
-
-    /* padding-right: 0px;
-    margin-right: 0px; */
-
-
+    top: 84px;
+    margin-right: 0px;
 }
 
 .LeftOpenArrow img{
     position: absolute;
+    margin-right: 0px;
 }
 
 .HotKeywords{
